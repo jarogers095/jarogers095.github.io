@@ -1,11 +1,11 @@
 # Site settings
 author: James Rogers
-title: 
+title: Turning a Hobby into a Career
 header-img: img/home-bg.png
 email: jarogers095@gmail.com
 copyright_name: James Rogers
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey through Flatiron School's Software Engineering Bootcamp
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jarogers095
