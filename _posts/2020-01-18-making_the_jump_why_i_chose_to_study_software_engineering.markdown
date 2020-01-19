@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Making the Jump: Why I chose to study software engineering"
+title:      "Making the Jump or Why I chose to study software engineering"
 date:       2020-01-18 18:53:39 -0500
 permalink:  making_the_jump_why_i_chose_to_study_software_engineering
 ---
