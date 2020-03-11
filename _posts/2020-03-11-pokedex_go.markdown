@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Pokedex Go"
-date:       2020-03-11 05:08:40 +0000
+title:      "Portfolio Project 1 Pokedex Go"
+date:       2020-03-11 01:08:41 -0400
 permalink:  pokedex_go
 ---
 
