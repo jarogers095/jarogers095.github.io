@@ -5,7 +5,7 @@ date:       2020-03-11 01:08:41 -0400
 permalink:  pokedex_go
 ---
 
-"The World's Greatest Text-Based Pokemon Go Stat Database!"
+The World's Greatest Text-Based Pokemon Go Stat Database!
 
     When I first saw the requirements of our first portfolio project, I knew immediately what I wanted to base it off of. My friends and I have been playing Pokemon Go for a few months now, and if anything was designed to be presented as a list with multiple layers to explore, it's Pokemon.
 
