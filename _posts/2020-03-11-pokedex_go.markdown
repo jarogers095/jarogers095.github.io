@@ -48,11 +48,10 @@ My scraper would consist of four main methods:
 
     The initialize method accepts a hash of attributes, provided by the scraper, and then uses the method "instance_variable_set('@#{key}', value)" within an "each" block to copy each attribute into its proper instance variable. 
 
-    The sort method, similarly, is passed a string consisting of the name of the Pokemon attribute you'd like to sort by,  and utilizing a sort block that contains:
+    The sort method, similarly, is passed a string consisting of the name of the Pokemon attribute you'd like to sort by,  and utilizing a sort block that contains: 
 
-```
 a.instance_variable_get("@#{method}") <=> b.instance_variable_get("@#{method}")
-```
+
 which allows the caller to sort the collection of Pokemon by any attribute using only one method.
 
     The "add_stats" method also uses the "instance_variable_set('@#{key}', value)" technique as "initialize" to allow new attributes to be added, or old ones to be changed.
