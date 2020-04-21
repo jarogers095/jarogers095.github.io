@@ -9,9 +9,9 @@ First, a haiku.
 
  
 
-*His great strength pushes *
+*His great strength pushes*
 
-*Forcing them into one space *
+*Forcing them into one space*
 
 *He sighs longingly*
 
@@ -19,7 +19,7 @@ First, a haiku.
 
 For quite some time, as I imagine is the case with many beginning Rubyists, I looked at shovel as my trusty tool for concatenating strings and pushing values onto arrays with the assumption that this was its sole purpose. It makes sense: it shovels whatever is on the right of it onto whatever is to the left. However, shovel's simple appearance actually hides a rather varied set of uses and some interesting idiosyncrasies. 
 
-**Objection Sustained **
+**Objection Sustained**
 
 When we concatenate strings with shovel, it's easy to look at it as an exact replacement for the "+=" operator. But, if we... dig... a little deeper, there's a major difference between the two. 
 
@@ -81,7 +81,7 @@ Using the shovel operator between the keyword "class" and a class name causes an
 
 However, while the details of how this works is intriguing, I haven't thought of a good reason to use it. Using the "self" prefix or using dot notation to define methods on an existing object seem more readable.
 
-**Bit Shifting **
+**Bit Shifting**
 
 ```
 2 << 2 
@@ -93,11 +93,11 @@ Operators that manipulate their operands at the bit level are known as "Bitwise 
 
 The left shift functionality of shovel works by taking the left integer's bit form and shifting each bit to the left by the value on the right of the shovel. In our above example, the left integer, two, is represented in bit form as: 
 
-`00000010 `
+`00000010`
 
 Using our shovel operator to shift those bits to the left by a value of two, adding in zeros to fill the now empty placements, we get: 
 
-`00001000 `
+`00001000`
 
 This sequence now represents the value ten in base10. 
 
