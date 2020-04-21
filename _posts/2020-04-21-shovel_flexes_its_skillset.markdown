@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Shovel Flexes Its Skillset "
-date:       2020-04-21 04:50:47 +0000
+title:      "Shovel Flexes Its Skillset"
+date:       2020-04-21 00:50:48 -0400
 permalink:  shovel_flexes_its_skillset
 ---
 
